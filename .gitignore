@@ -1,0 +1,18 @@
+# Arduino and PlatformIO build artifacts
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+bin/
+*.el
+*.cl
+*.loader
+
+# Private configuration files (Add passwords here)
+secrets.h
+config.json
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
