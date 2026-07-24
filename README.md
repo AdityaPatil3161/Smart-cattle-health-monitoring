@@ -6,14 +6,21 @@ An IoT-based embedded system that continuously monitors cattle health using phys
 
 ## Features
 
-Body Temperature Monitoring
-Heart Rate Monitoring
-Blood Oxygen (SpO₂)
-Activity Detection
-GPS Tracking
-Environmental Monitoring
-Web Dashboard
-Health Status Prediction
+✔ Body Temperature Monitoring
+
+✔ Heart Rate Monitoring
+
+✔ Blood Oxygen (SpO₂)
+
+✔ Activity Detection
+
+✔ GPS Tracking
+
+✔ Environmental Monitoring
+
+✔ Web Dashboard
+
+✔ Health Status Prediction
 
 ---
 
