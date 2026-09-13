@@ -76,10 +76,16 @@ An IoT-based embedded system that continuously monitors cattle health using phys
 
 <img width="3072" height="4080" alt="1786296203193" src="https://github.com/user-attachments/assets/af1e34a4-7b2f-4782-a9bd-6acf3dc1a456" />
 
-...
-
 ---
 
 ## Future Scope
 
+
+- Integration with cloud platforms for long-term health data storage and analysis.
+- Development of a mobile application for remote monitoring and notifications.
+- Implementation of AI/ML algorithms for early disease prediction.
+- Expansion to support multiple cattle with individual identification.
+- Integration of solar-powered battery systems for field deployment.
+- Addition of advanced sensors for respiration, rumination, and activity monitoring.
+- GPS-based geofencing for livestock safety and location management.
 ...
