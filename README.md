@@ -40,8 +40,6 @@ An IoT-based embedded system that continuously monitors cattle health using phys
 - Arduino IDE
 - Embedded C++
 - HTML
-- CSS
-- JavaScript
 
 ---
 
@@ -56,23 +54,27 @@ An IoT-based embedded system that continuously monitors cattle health using phys
 
 ## Dashboard
 
-(Image Here)
+<img width="1080" height="1889" alt="1786296203178" src="https://github.com/user-attachments/assets/9a267ab5-9d41-47b4-a0b2-bb639b724a7a" />
 
 ---
 
-## Circuit Diagram
+## Block Diagram
 
-(Image Here)
-
----
-
-## Folder Structure
-
-...
+<img width="974" height="718" alt="image" src="https://github.com/user-attachments/assets/a456f137-670b-49d4-93d9-3d8bcad9ab9c" />
 
 ---
 
-## Installation
+## Serial Output
+
+
+<img width="3157" height="1248" alt="1786296203159" src="https://github.com/user-attachments/assets/069f116c-bdcd-492c-82f1-99a07f41d8ae" />
+
+
+---
+
+## Circuit 
+
+<img width="3072" height="4080" alt="1786296203193" src="https://github.com/user-attachments/assets/af1e34a4-7b2f-4782-a9bd-6acf3dc1a456" />
 
 ...
 
